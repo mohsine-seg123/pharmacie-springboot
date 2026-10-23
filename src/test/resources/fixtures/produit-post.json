@@ -1,0 +1,28 @@
+{
+  "nom": "Voltaren 50mg",
+  "description": "Anti-inflammatoire pour douleurs musculaires et articulaires.",
+  "prix": 58.9,
+  "codeBarre": "VOLTA50-2025",
+  "dateExpiration": "2026-12-15",
+  "categorie": {
+    "id": 5
+  },
+  "fournisseur": {
+    "id": 5
+  },
+  "detailProduit": {
+    "fabricant": "Novartis",
+    "paysOrigine": "Suisse",
+    "composition": "Diclofénac sodique 50 mg",
+    "dosage": "50 mg",
+    "indications": "Traitement des douleurs musculaires"
+  },
+  "tags": [
+    {
+      "id": 1
+    },
+    {
+      "id": 3
+    }
+  ]
+}

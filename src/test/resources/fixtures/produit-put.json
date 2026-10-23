@@ -1,0 +1,28 @@
+{
+  "nom": "Doliprane 500mg (Nouveau)",
+  "description": "Antalgique et antipyrétique — nouvelle formule 2025.",
+  "prix": 27,
+  "codeBarre": "DLP500-NEW",
+  "dateExpiration": "2026-05-10",
+  "categorie": {
+    "id": 2
+  },
+  "fournisseur": {
+    "id": 2
+  },
+  "detailProduit": {
+    "fabricant": "Bayer",
+    "paysOrigine": "Allemagne",
+    "composition": "Paracétamol 500 mg",
+    "dosage": "500 mg",
+    "indications": "Douleur et fièvre légère"
+  },
+  "tags": [
+    {
+      "id": 1
+    },
+    {
+      "id": 3
+    }
+  ]
+}

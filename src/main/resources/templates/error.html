@@ -1,0 +1,3 @@
+<!DOCTYPE html>
+<html lang="fr" xmlns:th="http://www.thymeleaf.org"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Opération impossible · Pharmacie</title><link rel="stylesheet" th:href="@{/css/style.css}"></head>
+<body><nav th:replace="~{fragments/navbar :: navbar}"></nav><main><h1>Opération impossible</h1><p class="success" th:if="${success}" th:text="${success}"></p><p class="error" th:if="${error}" th:text="${error}"></p><p class="error" th:text="${message}"></p><a th:href="@{/produits}">Retour aux produits</a></main></body></html>
